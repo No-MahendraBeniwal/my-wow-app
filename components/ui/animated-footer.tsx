@@ -72,7 +72,7 @@ const Footer: React.FC<FooterProps> = ({ copyrightText, barCount = 23 }) => {
         <ul className="flex gap-6">
           <li>
             <a
-              href="https://www.instagram.com/taher_max_"
+              href="https://www.instagram.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-sky-400 transition-colors"
@@ -94,7 +94,7 @@ const Footer: React.FC<FooterProps> = ({ copyrightText, barCount = 23 }) => {
           </li>
           <li>
             <a
-              href="https://wa.me/1234567890"
+              href="https://wa.me/9829012345"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-sky-400 transition-colors"
